@@ -3,3 +3,4 @@ if firstnew=="yes":
     print("wrong")
 else :
     print("right")
+print("thank you")
